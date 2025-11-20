@@ -1,0 +1,7 @@
+
+llama-index
+llama-parse
+llama-index-embeddings-openai
+supabase
+python-dotenv
+nest_asyncio
